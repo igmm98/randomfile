@@ -1,0 +1,56 @@
+﻿[
+  {
+    "id": "1",
+    "position": [
+      -77.042793,
+      -12.046374
+    ],
+    "title": "lima",
+    "VALUES": 1027
+  },
+  {
+    "id": "2",
+    "position": [
+      -74.063644,
+      4.624335
+    ],
+    "title": "bogota",
+    "VALUES": 0
+  },
+  {
+    "id": "3",
+    "position": [
+      -58.381592,
+      -34.603722
+    ],
+    "title": "buenos aires",
+    "VALUES": 338
+  },
+  {
+    "id": "4",
+    "position": [
+      -43.196388,
+      -22.908333
+    ],
+    "title": "rio de janeiro",
+    "VALUES": 0
+  },
+  {
+    "id": "5",
+    "position": [
+      -46.62529,
+      -23.533773
+    ],
+    "title": "sao paulo",
+    "VALUES": 0
+  },
+  {
+    "id": "6",
+    "position": [
+      -70.673676,
+      -33.447487
+    ],
+    "title": "santiago",
+    "VALUES": 1521
+  }
+]
